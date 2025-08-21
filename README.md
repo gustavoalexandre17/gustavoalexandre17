@@ -10,7 +10,7 @@
 
 🔍 Interested in APIs, databases, and data-driven solutions
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalexandre17&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalexandre17&layout=compact&theme=dracula)
-
-![snake gif](https://github.com/gustavoalexandre17/gustavoalexandre17/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoalexandre17&show_icons=true&theme=dracula" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalexandre17&layout=compact&theme=dracula" width="48%">
+</div>
