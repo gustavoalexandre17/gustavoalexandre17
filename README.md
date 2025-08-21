@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there, I'm Alexandre!
 
-<!--
-**gustavoalexandre17/gustavoalexandre17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Passionate about Backend Development & Data Science
+🚀 Always learning, building, and exploring new technologies
 
-Here are some ideas to get you started:
+🔍 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my skills in C++ and Python
+
+🔍 Interested in APIs, databases, and data-driven solutions
+
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalexandre17&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalexandre17&layout=compact&theme=dracula)
+
