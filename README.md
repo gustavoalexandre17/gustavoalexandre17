@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Gustavo</h1>
-<h3 align="center">Estudante de ciência da computação, atualmente me aprofundando na linguagem C++
+<h3 align="center">Estudante de ciência da computação, interessado em desenvolvimento Backend e Data Science.
 
 <p align="center">
   
