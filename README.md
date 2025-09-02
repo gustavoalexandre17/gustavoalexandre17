@@ -1,7 +1,7 @@
 👋 Hi there, I'm Alexandre!
 
 🎓 Computer Science Student
-💻 Passionate about Backend Development & Data Science
+Passionate about Backend Development & Data Science.
 🚀 Always learning, building, and exploring new technologies
 
 🔍 About Me:
