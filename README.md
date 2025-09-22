@@ -1,31 +1,66 @@
-<h1 align="center">Olá, me chamo Gustavo</h1>
-<h3 align="center">Estudante de ciência da computação, interessado competições de programação e desenvolvimento backend de alta performace.
+<h1 align="center">Olá, eu sou Gustavo Alexandre! 👋</h1>
+<h3 align="center">Estudante de Ciência da Computação | Programador Competitivo | Aspirante a Engenheiro de Backend</h3>
 
 <p align="center">
-  
-</p
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoalexandre17&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalexandre17&layout=compact&theme=transparent" />
+  <a href="mailto:alexandrega333@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/SEU-USUARIO-LEETCODE" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode">
+  </a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/SEU-USUARIO-BEECROWD" target="_blank">
+    <img src="https://img.shields.io/badge/Beecrowd-F9A825?style=for-the-badge&logo=beecrowd&logoColor=black" alt="Beecrowd">
+  </a>
 </p>
 
+---
 
+## 👨‍💻 Sobre Mim
 
-<p align="center">
-  🌎 Vamos nos conectar:
+<p>
+  Sou um estudante de <strong>Ciência da Computação</strong> (2º semestre) e programador competitivo, inclinado à desafios de lógica e otimização de algoritmos. Meu grande interesse profissional é a <strong>Engenharia de Backend</strong>, com foco na construção de sistemas de <strong>alta performance</strong> e <strong>estabilidade</strong>.
 </p>
 
+<p>
+  Possuo base sólida em `C` e `C++`, linguagens que utilizo tanto em projetos acadêmicos quanto em competições. Atualmente, estou focado em expandir meu arsenal de tecnologias, estudando <strong>Java</strong> e o ecossistema <strong>Spring Boot</strong> para construir aplicações robustas e escaláveis.
+</p>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚙️ Minha Stack Principal</h3>
+      <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌱 Estudando Atualmente</h3>
+      <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
 <p align="center">
-  <a href="https://instagram.com/alexandresg_0/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/692738327509598218" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:alexandresg333@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gustavo-alexandre-4485b1353/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/alexanderthebig0//" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=%23d16c14" /></a>
-  &nbsp;&nbsp;
-  <a href="https://judge.beecrowd.com/en/profile/1117817" target="_blank"><img alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-F99200?style=for-the-badge&logo=beecrowd&logoColor=black" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoalexandre17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gustavo"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalexandre17&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas por Gustavo"/>
 </p>
