@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gustavo Alexandre! 👋</h1>
-<h3 align="center">Estudante de Ciência da Computação | Programador Competitivo | Aspirante a Engenheiro de Backend</h3>
+<h3 align="center">Ciência da Computação | Programação Competitiva | Engenharia de Backend</h3>
 
 <p align="center">
   <a href="mailto:alexandrega333@gmail.com" target="_blank">
@@ -21,7 +21,7 @@
 ## 👨‍💻 Sobre Mim
 
 <p>
-  Sou um estudante de <strong>Ciência da Computação</strong> (2º semestre) e programador competitivo, inclinado à desafios de lógica e otimização de algoritmos. Meu grande interesse profissional é a <strong>Engenharia de Backend</strong>, com foco na construção de sistemas de <strong>alta performance</strong> e <strong>estabilidade</strong>.
+  Sou um estudante de <strong>Ciência da Computação</strong> (2º semestre) e competidor em maratonas de programação, inclinado à desafios de lógica e otimização de algoritmos. Meu grande interesse profissional é <strong>Desenvolvimento Backend</strong>, com foco na construção de sistemas de <strong>alta performance</strong> e <strong>estabilidade</strong>.
 </p>
 
 <p>
