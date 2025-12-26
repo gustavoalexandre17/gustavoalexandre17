@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  Possuo base sólida em `C` e `C++`, linguagens que utilizo tanto em projetos acadêmicos quanto em competições. Atualmente, estou focado em expandir meu arsenal de tecnologias, estudando <strong>Java</strong> e o ecossistema <strong>Spring Boot</strong> para construir aplicações.
+  Possuo base sólida em `C` e `C++`, linguagens que utilizo tanto em projetos acadêmicos quanto em competições. Atualmente, estou focado em expandir meu arsenal de tecnologias, estudando <strong>Java</strong> e o ecossistema <strong>Spring Boot</strong>.
 </p>
 
 ---
