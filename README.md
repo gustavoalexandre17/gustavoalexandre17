@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gustavo Alexandre! 👋</h1>
-<h3 align="center">Ciência da Computação | Programação Competitiva | Engenharia de Backend</h3>
+<h3 align="center">Ciência da Computação | Programação Competitiva | Backend</h3>
 
 <p align="center">
   <a href="mailto:alexandrega333@gmail.com" target="_blank">
