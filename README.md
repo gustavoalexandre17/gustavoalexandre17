@@ -21,7 +21,7 @@
 ## 👨‍💻 Sobre Mim
 
 <p>
-  Sou um estudante de <strong>Ciência da Computação</strong> (2º semestre) e competidor em maratonas de programação, inclinado à desafios de lógica e otimização de algoritmos. Meu grande interesse profissional é <strong>Desenvolvimento Backend</strong>, com foco na construção de sistemas de <strong>alta performance</strong> e <strong>estabilidade</strong>.
+  Sou um estudante de <strong>Ciência da Computação</strong> (2º semestre) e competidor em maratonas de programação, inclinado à desafios de lógica e algoritmos. Meu principal interesse profissional é <strong>Desenvolvimento Backend</strong>.
 </p>
 
 <p>
