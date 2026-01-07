@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  Atualmente, estou focado em <strong>me profissionalizar na stack Java</strong>, estudando e <strong>Spring Boot</strong>, arquitetura de software, organização de sistemas e escalabilidade.
+  Atualmente, estou focado em <strong>me profissionalizar na stack Java</strong>, estudando <strong>Spring Boot</strong>, arquitetura de software, organização de sistemas e </strong>escalabilidade.</strong>
 
  ## 🚀 Tecnologias e Ferramentas
 
