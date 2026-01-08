@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gustavo Alexandre! 👋</h1>
-<h3 align="center">Ciência da Computação | Programação Competitiva | Backend Java</h3>
+<h3 align="center">Ciência da Computação | Backend Java</h3>
 
 <p align="center">
   <a href="mailto:alexandrega333@gmail.com" target="_blank">
@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  Atualmente, estou focado em <strong>me profissionalizar na stack Java</strong>, estudando <strong>Spring Boot</strong>, arquitetura de software, organização de sistemas e </strong>escalabilidade.</strong>
+  Atualmente, estou focado em <strong>me profissionalizar na stack Java</strong>, estudando <strong>Spring Boot</strong>, arquitetura de software e organização de sistemas.
 
  ## 🚀 Tecnologias e Ferramentas
 
