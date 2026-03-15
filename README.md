@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  Tenho uma base sólida em <strong>C</strong> e <strong>C++</strong>, linguagens que utilizo tanto em
+  Tenho uma base sólida em <strong>C</strong> e <strong>Python</strong>, linguagens que utilizo tanto em
   projetos acadêmicos quanto em <strong>programação competitiva</strong>.
 </p>
 
@@ -37,7 +37,6 @@
 
 ### ⚙️ Base Técnica
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
