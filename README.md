@@ -37,23 +37,15 @@
 ## Experiência Prática & Projetos em Destaque
 
 ### Edge AI: Desenvolvimento de Kernel Driver para NPU (RISC-V)
-Atualmente, sou responsável pelo desenvolvimento de um **Kernel Driver** para comunicação com um acelerador de hardware (NPU *multiplierless*) focado em inferência de **Edge AI**, rodando em arquitetura **RISC-V**. 
-
-O projeto engloba todo o ciclo de vida do driver no espaço de kernel (Kernel Space), desde a emulação até o deploy físico em FPGA, com as seguintes responsabilidades:
-* **Desenvolvimento de LKM (Loadable Kernel Module):** Criação, compilação via *cross-compiler toolchain* e validação de módulos do kernel Linux, inicialmente utilizando QEMU para emulação RISC-V.
-* **Dispositivo de Caractere & File Operations:** Exposição da NPU para o *User Space* através de um nó de dispositivo (`/dev/npu_ternaria`), mapeando chamadas de sistema (syscalls) para rotinas internas via `struct file_operations` (`read`, `write`, `ioctl`).
-* **Memory-Mapped I/O (MMIO):** Conversão de endereços físicos para virtuais utilizando a API do kernel (`ioremap`) com base nas especificações do *Device Tree Source (DTS)*, permitindo a comunicação direta com os registradores de hardware.
-* **Sincronização e Transferência Segura:** Uso de `copy_from_user` e `copy_to_user` para tráfego seguro de matrizes de pesos/dados, controle de fluxo no hardware manipulando registradores de status/controle, e implementação de *Polling/IRQ* para gerenciar a execução da NPU.
-* **Otimização de Contexto:** Redução do overhead de *context-switching* no tráfego Aplicação ↔ Driver ↔ Hardware para garantir precisão máxima no benchmarking de performance durante o deploy no SoC físico (FPGA).
-
+<p>
+  Atualmente, sou responsável pelo desenvolvimento de um **Kernel Driver** para comunicação com um acelerador de hardware (NPU *multiplierless*) focado em inferência de **Edge AI**, rodando em arquitetura **RISC-V**. 
+<p>
 ---
 
 ### Engenharia de Software & Automação: Bot Cardápio UFCA
-Desenvolvimento de um bot no Telegram em **Python** para automação de consultas e notificações.
-* **Test-Driven Development (TDD):** Desenvolvimento guiado por testes com 80-90% de cobertura utilizando `pytest`, garantindo resiliência e facilitando refatorações seguras.
-* **Extração de Dados e Automação:** Implementação de rotinas de *parsing* automático de PDFs para extração de dados não estruturados e sistema de agendamento (*scheduling*) de notificações.
-* **Arquitetura Modular:** Separação clara de responsabilidades no design do software (Handlers, Scraper, Cache management), com documentação arquitetural e integração com CI/CD e testes unitários.
-
+<p>
+  Desenvolvimento de um bot no Telegram em **Python** para automação de consultas e notificações.
+</p>
 ---
 
 ## Tecnologias e Ferramentas
@@ -67,16 +59,7 @@ Desenvolvimento de um bot no Telegram em **Python** para automação de consulta
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Em Estudo
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![LKM](https://img.shields.io/badge/LKM-Kernel_Modules-blue?style=for-the-badge&logo=linux)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/Redes_de_Computadores-02569B?style=for-the-badge)
-
-### Conhecimentos Prévios
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
