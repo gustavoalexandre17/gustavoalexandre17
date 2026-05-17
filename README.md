@@ -21,11 +21,11 @@
 ## Sobre Mim
 
 <p>
-  Sou estudante de <strong>Ciência da Computação</strong>, interessado em entender como as tecnologias funcionam por baixo dos panos. Atualmente, meu foco principal é me especializar em <strong>Cibersegurança</strong> e infraestrutura.
+  Sou estudante de Ciência da Computação, interessado em entender como as tecnologias funcionam por baixo dos panos. Atualmente, meu foco principal é me especializar em <strong>Cibersegurança</strong> e infraestrutura.
 </p>
 
 <p>
-  Possuo interesse em <strong>sistemas de baixo nível</strong>, arquitetura de <strong>sistemas Linux</strong>, <strong>redes de computadores</strong> e <strong>computação distribuída</strong>. Tenho uma base sólida em <strong>C</strong>, <strong>C++<strong> e <strong>Python</strong>, linguagens que utilizo na programação competitiva e que agora são fundamentais para explorar o funcionamento interno dos sistemas operacionais e criar scripts de automação.
+  Possuo interesse em sistemas de baixo nível, arquitetura Linux, redes de computadores e computação distribuída. Tenho uma base sólida em <strong>C</strong>, <strong>C++</strong> e <strong>Python</strong>, linguagens que utilizo na programação competitiva e no estudo do funcionamento interno dos sistemas operacionais e automação.
 </p>
 
 <p>
@@ -37,21 +37,24 @@
 ## Experiência Prática & Projetos em Destaque
 
 ### Edge AI: Desenvolvimento de Kernel Driver para NPU (RISC-V)
+
 <p>
-  Atualmente, sou responsável pelo desenvolvimento de um **Kernel Driver** para comunicação com um acelerador de hardware (NPU *multiplierless*) focado em inferência de **Edge AI**, rodando em arquitetura **RISC-V**. 
-<p>
----
+  Atualmente, sou responsável pelo desenvolvimento de um Kernel Driver para comunicação com um acelerador de hardware (NPU multiplierless) focado em inferência de Edge AI, rodando em arquitetura RISC-V.
+</p>
 
 ### Engenharia de Software & Automação: Bot Cardápio UFCA
+
 <p>
-  Desenvolvimento de um bot no Telegram em **Python** para automação de consultas e notificações.
+  Desenvolvimento de um bot no Telegram em Python para automação de consultas e notificações.
 </p>
+
 ---
 
 ## Tecnologias e Ferramentas
 
 ### Base Técnica
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -62,4 +65,5 @@
 ![LKM](https://img.shields.io/badge/LKM-Kernel_Modules-blue?style=for-the-badge&logo=linux)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
