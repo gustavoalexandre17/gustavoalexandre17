@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  Possuo interesse em sistemas de baixo nível, arquitetura Linux, redes de computadores e computação distribuída. Tenho uma base sólida em <strong>C</strong>, <strong>C++</strong> e <strong>Python</strong>, linguagens que utilizo na programação competitiva e no estudo do funcionamento interno dos sistemas operacionais e automação.
+  Possuo interesse em sistemas de baixo nível, arquitetura Linux, redes de computadores e computação distribuída. Tenho uma base sólida em <strong>C</strong>, <strong>C++</strong> e <strong>Python</strong>, linguagens que utilizo na programação competitiva e no estudo do funcionamento das ferramentas e automação.
 </p>
 
 <p>
