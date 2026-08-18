@@ -1,69 +1,60 @@
-<h1 align="center">Olá, eu sou Gustavo Alexandre! 👋</h1>
-<h3 align="center">Ciência da Computação | Cibersegurança</h3>
+# Gustavo Alexandre
+CTO and co-founder at Roko Edge  
+Systems Engineer focused on low-level systems, performance, and software close to hardware.  
+C++ as primary language, followed by Python. I enjoy building reliable systems,
+from kernel drivers and memory optimization to tooling and applied machine learning.
 
-<p align="center">
-  <a href="mailto:alexandrega333@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-alexandre-4485b1353/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/alexanderthebig0/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode">
-  </a>
-  <a href="https://judge.beecrowd.com/en/profile/1117817" target="_blank">
-    <img src="https://img.shields.io/badge/Beecrowd-F9A825?style=for-the-badge&logo=beecrowd&logoColor=black" alt="Beecrowd">
-  </a>
-</p>
+**Stack:** `C++` · `Python` · `Rust` · `C` · `Linux` · `Docker` · `PyTorch` · `RISC-V`
 
 ---
 
-## Sobre Mim
+## 📌 Featured Projects
 
-<p>
-  Sou estudante de Ciência da Computação, interessado em entender como as tecnologias funcionam por baixo dos panos. Atualmente, meu foco principal é me especializar em <strong>Cibersegurança</strong> e infraestrutura.
-</p>
+### Roko
+[Roko](https://github.com/santos-ag/santos-ag) develops local time-series forecasting systems for industrial operations, designed to run close to where sensor data is generated. As CTO and co-founder, I lead the technical direction and contribute hands-on across model development, runtime design, edge deployment, benchmarking, and validation. My work connects Python-based ML tooling with reliable systems software and reproducible engineering workflows.
 
-<p>
-  Possuo interesse em sistemas de baixo nível, arquitetura Linux, redes de computadores e computação distribuída. Tenho uma base sólida em <strong>C</strong>, <strong>C++</strong> e <strong>Python</strong>, linguagens que utilizo na programação competitiva e no estudo do funcionamento das ferramentas e automação.
-</p>
-
-<p>
-  Meu objetivo atual é aprofundar meus estudos em protocolos de rede, segurança da informação, manipulação de memória e administração de sistemas UNIX-like.
-</p>
+### Edge AI: Kernel Driver Development for NPU (RISC-V)
+Developing a Linux Kernel Driver for communication with a multiplierless hardware accelerator (NPU) focused on edge AI inference on RISC-V architecture. Deep dive into kernel space, device driver architecture, and hardware abstraction.
 
 ---
 
-## Experiência Prática & Projetos em Destaque
+## 🛠️ Technical Stack
 
-### Edge AI: Desenvolvimento de Kernel Driver para NPU (RISC-V)
-
-<p>
-  Atualmente, sou responsável pelo desenvolvimento de um Kernel Driver para comunicação com um acelerador de hardware (NPU multiplierless) focado em inferência de Edge AI, rodando em arquitetura RISC-V.
-</p>
-
-### Engenharia de Software & Automação: Bot Cardápio UFCA
-
-<p>
-  Desenvolvimento de um bot no Telegram em Python para automação de consultas e notificações.
-</p>
-
----
-
-## Tecnologias e Ferramentas
-
-### Base Técnica
+**Core Proficiencies**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Specializations**  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Em Estudo
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LKM](https://img.shields.io/badge/LKM-Kernel_Modules-blue?style=for-the-badge&logo=linux)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Areas of Focus**  
+Low-level systems · Kernel drivers · Memory optimization · Network protocols · Distributed systems · Hardware acceleration · Cybersecurity
 
 ---
+
+## 🎓 About
+
+Computer Science student with a passion for understanding how technology works under the hood. Currently specializing in **Cybersecurity** and **Low-Level Systems**.
+
+**Interests:**
+- Kernel development and Linux architecture
+- Network protocols and distributed systems
+- Memory manipulation and system administration
+- Hardware acceleration and embedded systems
+- Applied machine learning at the edge
+
+---
+
+## 📫 Get in Touch
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrega333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alexandre-4485b1353/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alexanderthebig0/)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-F9A825?style=for-the-badge&logo=beecrowd&logoColor=black)](https://judge.beecrowd.com/en/profile/1117817)
