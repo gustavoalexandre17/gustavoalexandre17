@@ -46,10 +46,6 @@ communication, and low-level performance optimization.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-0066CC?style=for-the-badge&logo=linux&logoColor=white)
-### Areas of Focus
-
-Low-level systems · Kernel drivers · Memory optimization  ·
-Distributed systems · Hardware acceleration
 
 ---
 
