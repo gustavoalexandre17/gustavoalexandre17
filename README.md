@@ -56,15 +56,14 @@ Distributed systems · Hardware acceleration
 ## 🎓 About
 
 Computer Science student with a passion for understanding how technology works under
-the hood. Currently specializing in **Low-Level Systems**.
+the hood. Currently specializing in **multithreading and async communication**.
 
 **Interests:**
 
-- Kernel development and Linux architecture
-- Network protocols and distributed systems
-- Memory manipulation and system administration
+- Linux architecture and driver development
 - Hardware acceleration and embedded systems
 - Applied machine learning at the edge
+- AI architecture
 
 ---
 
