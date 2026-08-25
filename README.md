@@ -32,21 +32,11 @@ communication, and low-level performance optimization.
 
 ## 🛠️ Technical Stack
 
-### Core Proficiencies
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Tools & Specializations
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-0066CC?style=for-the-badge&logo=linux&logoColor=white)
-
 ---
 
 ## 🎓 About
@@ -56,9 +46,9 @@ the hood. Currently specializing in **multithreading and async communication**.
 
 **Interests:**
 
-- Linux architecture and driver development
+- OS architecture and driver / app's development
 - Hardware acceleration and embedded systems
-- Applied machine learning at the edge
+- Applied machine learning at edge computing
 - AI architecture
 
 ---
