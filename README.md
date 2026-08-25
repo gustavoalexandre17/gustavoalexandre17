@@ -46,7 +46,8 @@ the hood. Currently specializing in **multithreading and async communication**.
 
 **Interests:**
 
-- OS architecture and driver / app's development
+- OS architecture
+- Network programming
 - Hardware acceleration and embedded systems
 - Applied machine learning at edge computing
 - AI architecture
